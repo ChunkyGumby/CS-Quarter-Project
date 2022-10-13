@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+	color: purple;
+	overflow: hidden;
+	background-color:black;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.navbar{
+		text-decoration:none;
+		float: right;
+		margin-right: 15px;
+		color:White;
+}
+.Logo{
+	width:100px;
+	height:100px;
+	margin-left:10px;
+}
+.groovy{
+	color:purple;
+	top:30%;
+	left:25%;
+	font-size:80px;
+	position: absolute;
+}
+.BG{
+	height:700px;
+	width:100%;
+}
+.storycovers{
+	margin-right:100px;
+}
+.singlecovers{
+	display: inline-block;
+	width:300px;
+	height:300px;
+	float:left;
+	text-align: center;
+}
+nav{
+background-color:black;
+padding-top:10px;
+padding-bottom:10px;
+
+}
+
+
