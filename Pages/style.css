@@ -25,6 +25,8 @@ footer{
 	font-size:80px;
 	background-image:url("../Img/BG.jpg");
 	background-position:center;
+	height:300px;
+	width:100%;
 }
 .BG{
 	height:700px;
