@@ -25,7 +25,7 @@ footer{
 	top:30%;
 	left:25%;
 	font-size:80px;
-	background-image:url("../Img/BG.jpg");
+	background-image:url("Img/../BG.jpg");
 }
 .BG{
 	height:700px;
