@@ -33,6 +33,11 @@ footer{
 .storycovers{
 	margin-right:100px;
 }
+.storytext{
+	text-align:center;
+	margin-left:30px;
+	margin-right:30px;
+}
 .singlecovers{
 	display: inline-block;
 	width:300px;
