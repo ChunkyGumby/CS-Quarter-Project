@@ -10,7 +10,6 @@ footer{
 	padding-bottom:10px;
 }
 .navbar{
-		text-decoration:none;
 		float: right;
 		margin-right: 15px;
 		color:White;
@@ -25,8 +24,6 @@ footer{
 	font-size:80px;
 	background-image:url("../Img/BG.jpg");
 	background-position:center;
-	display:flex;
-	justify-content:center;
 	height:300px;
 	width:100%;
 }
@@ -34,8 +31,9 @@ footer{
 	margin-right:100px;
 }
 .storytext{
-	margin-left:50px;
-	margin-right:50px;
+	text-align:center;
+	margin-left:30px;
+	margin-right:30px;
 }
 .singlecovers{
 	display: inline-block;
@@ -43,6 +41,22 @@ footer{
 	height:300px;
 	float:left;
 	text-align: center;
+}
+#aboutme{
+	text-align:left;
+	margin-left: 50px;
+}
+#photo{
+	margin-left:100px;
+}
+#myphoto{
+	display: inline-block;
+	width:200px;
+	height:350px;
+	float:left;
+	text-align:center;
+	border-style:solid;
+	border-color:purple;
 }
 nav{
 background-color:black;
